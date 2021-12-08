@@ -67,7 +67,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(549, 81);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(0, 19);
+            this.label2.Size = new System.Drawing.Size(0, 18);
             this.label2.TabIndex = 1;
             // 
             // pictureBox1
@@ -103,7 +103,7 @@
             this.label3.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(238, 371);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 26);
+            this.label3.Size = new System.Drawing.Size(74, 24);
             this.label3.TabIndex = 3;
             this.label3.Text = "Sign Up";
             this.label3.Click += new System.EventHandler(this.label3_Click_1);
@@ -123,7 +123,7 @@
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Palatino Linotype", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textBox2.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox2.Location = new System.Drawing.Point(157, 227);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(257, 39);
@@ -135,7 +135,7 @@
             // 
             this.textBox1.BackColor = System.Drawing.Color.White;
             this.textBox1.Font = new System.Drawing.Font("Palatino Linotype", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.textBox1.ForeColor = System.Drawing.SystemColors.WindowFrame;
             this.textBox1.Location = new System.Drawing.Point(157, 134);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(257, 39);
@@ -150,7 +150,7 @@
             this.label4.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(58, 81);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 52);
+            this.label4.Size = new System.Drawing.Size(67, 48);
             this.label4.TabIndex = 5;
             this.label4.Text = "Admin\r\n\r\n";
             // 
@@ -173,7 +173,7 @@
             this.label9.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(426, 15);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(123, 26);
+            this.label9.Size = new System.Drawing.Size(113, 24);
             this.label9.TabIndex = 8;
             this.label9.Text = "My Bookings";
             // 
@@ -183,7 +183,7 @@
             this.label8.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(1227, 15);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(93, 26);
+            this.label8.Size = new System.Drawing.Size(86, 24);
             this.label8.TabIndex = 7;
             this.label8.Text = "About Us";
             // 
@@ -193,7 +193,7 @@
             this.label7.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(216, 15);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(71, 26);
+            this.label7.Size = new System.Drawing.Size(67, 24);
             this.label7.TabIndex = 6;
             this.label7.Text = "Admin\r\n";
             // 
@@ -203,7 +203,7 @@
             this.label6.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(1338, 15);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(74, 26);
+            this.label6.Size = new System.Drawing.Size(71, 24);
             this.label6.TabIndex = 5;
             this.label6.Text = "Contact";
             // 
@@ -213,7 +213,7 @@
             this.label5.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(38, 15);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(64, 26);
+            this.label5.Size = new System.Drawing.Size(59, 24);
             this.label5.TabIndex = 4;
             this.label5.Text = "Home\r\n";
             // 
@@ -223,7 +223,7 @@
             this.label10.Font = new System.Drawing.Font("Palatino Linotype", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(1423, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(25, 26);
+            this.label10.Size = new System.Drawing.Size(22, 24);
             this.label10.TabIndex = 6;
             this.label10.Text = "X\r\n";
             this.label10.Click += new System.EventHandler(this.label10_Click);
