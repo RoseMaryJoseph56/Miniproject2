@@ -41,5 +41,31 @@ namespace busbooking2
     {
 
     }
+
+    private void label3_Click_1(object sender, EventArgs e)
+    {
+
+    }
+
+    private void progressBar1_Click(object sender, EventArgs e)
+    {
+
+    }
+
+    private void Splash_Load(object sender, EventArgs e)
+    {
+      
+    }
+
+    private void label10_Click(object sender, EventArgs e)
+    {
+      Application.Exit();
+    }
+
+    private void textBox1_TextChanged_1(object sender, EventArgs e)
+    {
+
+    }
+  }
   }
 }
